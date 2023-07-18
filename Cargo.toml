@@ -1,0 +1,11 @@
+[package]
+name = "vixen"
+description = "A voxel voxel world generation engine."
+version = "0.1.0"
+edition = "2021"
+authors = ["AlexiWolf <alexi@wolvesin.space>"]
+license = "MIT OR Apache-2.0"
+keywords = ["vixen", "voxel", "voxel-worldgen"]
+
+[dependencies]
+
