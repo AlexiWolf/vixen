@@ -1,6 +1,6 @@
 [package]
 name = "vixen"
-description = "A voxel voxel world generation engine."
+description = "A voxel world generation engine."
 homepage = "https://git.wolvesin.space/WolvesInSpace/vixen"
 version = "0.0.0"
 edition = "2021"
