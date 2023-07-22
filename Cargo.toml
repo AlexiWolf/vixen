@@ -6,6 +6,7 @@ edition = "2021"
 authors = ["AlexiWolf <alexi@wolvesin.space>"]
 homepage = "https://git.wolvesin.space/WolvesInSpace/vixen"
 repository = "https://git.wolvesin.space/WolvesInSpace/vixen"
+readme = "README.md"
 license = "MIT OR Apache-2.0"
 keywords = ["voxel", "voxel-worldgen"]
 categories = ["game-development", "game-engines", "data-structures"]
