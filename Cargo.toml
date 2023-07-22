@@ -5,7 +5,8 @@ version = "0.0.0"
 edition = "2021"
 authors = ["AlexiWolf <alexi@wolvesin.space>"]
 license = "MIT OR Apache-2.0"
-keywords = ["vixen", "voxel", "voxel-worldgen"]
+keywords = ["voxel", "voxel-worldgen"]
+categories = ["game-development", "game-engines", "data-structures"]
 
 [dependencies]
 
